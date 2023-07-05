@@ -1,4 +1,5 @@
 Indulge in the nostalgia-infused realm of vaporwave, where pastel colors, glitched visuals, and retro motifs intertwine in a visual symphony. Lose yourself in the pixelated landscapes of a bygone era, where palm trees sway against a sunset sky and VHS tapes flicker with distorted imagery.
+<br>
 CHECK OUT OUR OTHER REPOSITORY of GIFs. (DOPE-README) ideas for your front page.
 
 ## AI GIF:                                      
