@@ -1,242 +1,205 @@
-
-# CoolREADME.github.io
-Cool-Readme-ideas for your front page.
-
-
-## logos:
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-</p>
-<br>
+## AI GIF:                                      
+![AI](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/1f99607a-4ad7-45c5-95da-7a9099df0365)
 <br>
 <br>
 
-## Anime Girl Developer GIF:                                      
-![e18518c6d24257c6fb02e3c95a862d85](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/71cfe32b-6323-4781-868a-412235dd814b)
-<br>
-<br>
-<br>
-
-## Never Ending Spiral GIF:
-![tumblr_mzxu7aUIAP1sdvnteo1_1280](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/4e47171c-9423-41eb-9065-f5af980b1c8c)
-<br>
-<br>
-<br>
-
-## API GIF:                          
-![api-512d36c09662682717108a38bbb5c57d](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/d92576e3-4cbb-448c-8904-3ec566f9f80e)
-<br>
-<br>
-<br>
-
-## CHIP GIF:
-![CHIP](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/66614335-5dbe-4bc6-9004-fe8a784d78e3)
-<br>
-<br>
-<br>
-
-## LET'S GET STARTED GIF:
-![tumblr_d830ccbe48024d3b7600d83f66c07c34_28eb8eaa_500](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/16fa6da4-8652-4b24-8395-2ec5a0e52c42)
-<br>
-<br>
-<br>
-
-## CODER'S ZONE GIF:                                             
-![animesher com_90s-anime-gif-90s-2123431](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/727f8e7d-df16-4a3d-bd9c-2d3acf67a314)
-<br>
-<br>
-<br>
-
-## SCIENTIST GIF:
-![tumblr_ol3fa2RhqD1w0ii2ho1_500](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/5d986ac7-e3cd-4189-84fa-a46b63833e14)
-<br>
-<br>
-<br>
-                                    
-## BUNNY GIRL TIRED GIF:
-![rascal-does-not-dream-of-bunny-girl-senpai-anime-girl](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/ac2781e4-71f1-4b64-9f61-79b886f1e776)
-<br>
-<br>
-<br>
-
-## SPACESHIP GIF:
-![64968390be32cc361b702c45ca3cb5d6](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/ce202ec6-1480-40f2-8165-37a0bb6f94cf)
-<br>
-<br>
-<br>
-
-## GITHUB'S CAT GIF:
-![87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/dca89835-fdbf-411d-9705-e3c71a9e468b)
-<br>
-<br>
-<br>
-
-## GITHUB'S CAT 2 GIF:
-![GITHUB'S CAT 2](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/af7add90-4e81-4843-9099-cf72ce604f0b)
-<br>
-<br>
-<br>
-
-##BARACK CAT GIF:
-![BARACK CAT](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/1ea0d400-26d6-4181-a513-8fac0aacfcd0)
-<br>
-<br>
-<br>
-
-## SPIDER CAT:
-![SPIDER CAT](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/e9593f25-264b-48c0-8a84-d239c8a7d3c1)
-<br>
-<br>
-<br>
-
-## DAFT PUNK CAT GIF:
-![DAFT PUNK CAT](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/99796a13-9498-4a3c-a24f-19c7a5a36f4d)
-<br>
-<br>
-<br>
-
-## GANGNAM CAT GIF:
-![GANGNAM CAT](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/a51b19ce-68cf-41c9-855b-dd6ca170c7fb)
-<br>
+## AI2 GIF:
+![AI2](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/047260ce-ada1-4955-b284-66763d97849e)
 <br>
 <br>
 
 
-## HELLO DEVELOPERS GIF:
-![greetingGIF](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/3e60b856-20e9-4e91-aaf1-c2234e825f31)
-<br>
-<br>
-<br>
-
-## RANDOM GIF:
-![ee6ed5945d444fb5046149386acec4c8](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/8cd9cbeb-3f66-4369-b4a8-6b4699ddc676)
-<br>
-<br>
-<br>
-
-## TYPING GIF:
-![TYPING](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/196874e8-3354-45bd-b9dd-7ddaf48d0546)
-<br>
-<br>
-<br>
-
-## NIGHT CODE GIF:
-![night code](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/b26371df-e077-4dad-b541-43baca67a736)
-<br>
-<br>
-<br>
-
-## BE PRODUCTIVE GIF:
-![BE PRODUCTIVE](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/9f990d20-2059-4df0-a9be-069fd593b9d6)
-<br>
-<br>
-<br>
-
-## BLACK GIF:
-![BLACK](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/d1fe7254-64fe-4547-b002-51865a54d361)
-<br>
-<br>
-<br>
-
-## ANIME-EXCITED GIF:
-![ANIME-EXCITED](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/181bba3a-759a-4fee-918b-4e9be1185702)
-<br>
+## CODE GIRL GIF:                          
+![CODE GIRL](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/385de93d-eae8-4a21-89ab-2acd7817c661)
 <br>
 <br>
 
 ## CODE GIF:
-![CODE](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/c66e49f3-2357-4032-b952-223727f9b0b9)
+![CODE](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/3ec5875c-fb74-4075-8977-2a72eab3d634)
+<br>
+<br>
+<br>
+
+## CODE2 GIF :
+![CODE2](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/74f4e48f-c24d-4b3f-af2f-3c7de92b68ed)
+<br>
+<br>
+<br>
+
+## CYBERPUNK :                                             
+![CYBERPUNK](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/c7742638-8f65-4a43-9445-f12c68169050)
+<br>
+<br>
+<br>
+
+## CYBERPUNK2 GIF :
+![CYBERPUNK2](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/247cf7e9-ddec-4508-be3e-5cab046bfad6)
+<br>
+<br>
+<br>
+                                    
+## CYBERPUNK3 GIF:
+![CYBERPUNK3](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/e50f914b-eb18-4f49-aeef-620901e9d698)
+<br>
+<br>
+<br>
+
+## CYBERPUNK4 GIF:
+![CYBERPUNK4](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/c7b7f1fb-d81c-48ce-b4de-e17bc81ac0f2)
+<br>
+<br>
+<br>
+
+## CYBERPUNK5 GIF:
+![CYBERPUNK5](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/d006a647-b65c-40df-a3cc-fb566e565b81)
 <br>
 <br>
 <br>
 
 
-## GLITCHES GIF:
-![GLITCHES](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/84cf351f-ddfc-464b-87c1-897453dc00db)
+## CYBERPUNK6 GIF:
+![CYBERPUNK6](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/803ead1d-bc4f-4f4c-9515-55f99e4d8a98)
 <br>
 <br>
 <br>
 
-## ILLUSION GIF:
-![ILLUSION](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/c7a9c802-09ae-4635-82eb-afef7f4a850d)
+## CYBERPUNK7 GIF :
+![CYBERPUNK7](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/e1304ec2-4860-4409-97ce-08b04ac2b72d)
 <br>
 <br>
 <br>
 
-## ZERO TWO GIF:
-![ZERO TWO](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/97af43db-bf96-47f4-8941-2874f8dbca49)
+## CYBERPUNK8 GIF:
+![CYBERPUNK9](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/26c60c05-7ea4-4b88-8958-0f327aeff987)
 <br>
 <br>
 <br>
 
-## MATRIX GIF:
-![MATRIX](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/99222f1d-862e-4d3e-9cda-5bb726e60843)
+## CYBERPUNK9 GIF :
+![VAPOURWAVE9](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/d9f4d92d-4f82-42ad-815c-f04d462b153d)
 <br>
 <br>
 <br>
 
-## AMERICAN PSYCHO GIF:
-![AMERICAN PSYCHO](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/8d0c6fa3-0b71-49c3-8165-db3dce90950f)
+## CYBERPUNK10 GIF:
+![CYBERPUNK10](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/dcb5fac1-4099-4b8b-af7b-f4c30dc3debb)
+<br>
+<br>
+<br>
+                                    
+## CYBERPUNK11 GIF:
+![CYBERPUNK11](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/dfc6492a-0d30-4762-84b7-867b7fe7fb75)
 <br>
 <br>
 <br>
 
-## JOEY GIF:
-![JOEY](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/a88e9604-3b99-447b-9ef6-9f346bbe00a2)
+## CYBERPUNK12 GIF:
+![CYBERPUNK12](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/11fb8ca0-0992-4239-85eb-84cc117aec73)
 <br>
 <br>
 <br>
 
-## BLUE GIF:
-![BLUE](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/493e0df4-b44f-4e9c-bbd3-07a62a5016a4)
+## I SEE CODE GIF :
+![I SEE CODE](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/2fc34f20-35c4-4a14-aad6-6126d1d903c8) 
 <br>
 <br>
 <br>
 
-## COD_IN GIF:
-![COD_IN](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/2cacc249-0d3e-46ba-af88-a3c1cdb1b9e5)
+## I SEE RED GIF :
+![I SEE RED](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/3f6ac6ea-bae8-434d-8c5f-9fd969b07e50)
 <br>
 <br>
 <br>
 
-## COD_IN2 GIF:
-![COD_IN2](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/1e8c88c5-1dcd-4263-9dfb-b30dcaf0b651)
+## ROBOT CODE GIF :
+![ROBOT CODE](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/0c7b66bd-283d-4370-8230-e93984ddd9a2)
 <br>
 <br>
 <br>
 
-## DELETE GIF:
-![DELETE](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/cce0a301-7ccb-4019-92ae-fc734cc5402e)
+## TIRED GIF:                                             
+![TIRED](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/ea8ec56a-63e0-45be-a512-2adfa0021d71)
 <br>
 <br>
 <br>
 
-## week1 GIF:
-![week1](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/fa4335ea-54e1-4a9b-aef7-fd7fb5082578)
+## VAPOURWAVE GIF:
+![VAPOURWAVE](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/074eea75-84b6-45c3-b387-2c9c998da90e)
+<br>
+<br>
+<br>
+                                    
+## VAPOURWAVE1 GIF:
+![VAPOURWAVE1](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/ad59894c-127b-43f7-aec2-1a4c79623de4)
 <br>
 <br>
 <br>
 
-## week2 GIF:
-![week2](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/c7bd5c0e-8c68-472a-90f2-9c00983ebd54)
+## VAPOURWAVE2 GIF:
+![VAPOURWAVE2](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/7d3a518b-f9b9-4c03-a02d-3d4a3841576e)
 <br>
 <br>
 <br>
 
-## week3 GIF:
+## VAPOURWAVE3 GIF:
+![VAPOURWAVE3](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/64983edd-97e7-4d02-9446-5d9341acefb9)
 <br>
 <br>
 <br>
 
-## week4 GIF:
-![week4](https://github.com/Rupal-Dhurde/CoolREADME.github.io/assets/138601399/b91b2a17-af69-45d3-8e1c-db36e38e3792)
+## VAPOURWAVE4 GIF:
+![VAPOURWAVE4](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/e3cdcb74-c738-4941-b342-07fbd8dc29cd)
 <br>
 <br>
 <br>
 
+## VAPOURWAVE5 GIF:
+![VAPOURWAVE5](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/db8adc7b-1077-4036-b980-5dbd44bcc9c8)
+<br>
+<br>
+<br>
 
+## VAPOURWAVE6 GIF:                                             
+![VAPOURWAVE6](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/62dea210-82ea-4540-a3d0-cffe66ad0bd2)
+<br>
+<br>
+<br>
 
+## VAPOURWAVE7 GIF:
+![VAPOURWAVE7](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/9ee0a8ad-2eb0-4c05-8ce4-7e64c546d0af)
+<br>
+<br>
+<br>
+                                    
+## VAPOURWAVE8 GIF:
+![VAPOURWAVE8](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/0bed9fa8-4006-4d94-ac72-2485c2cbf935)
+<br>
+<br>
+<br>
 
+## VAPOURWAVE9 GIF:
+![VAPOURWAVE9](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/2af091d5-ba2e-43c2-a7cf-d1f78b5083a8)
+<br>
+<br>
+<br>
+
+## VAPOURWAVE10 GIF:
+![VAPOURWAVE10](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/cf02127a-52b4-4f6c-9bae-c3c723d078b1)
+<br>
+<br>
+<br>
+
+## VAPOURWAVE11 GIF:
+![VAPOURWAVE11](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/94f3d02f-bd02-4e79-9e20-1a5e36d274bf)
+<br>
+<br>
+<br>
+
+## VAPOURWAVE12 GIF:
+![VAPOURWAVE12](https://github.com/Rupal-Dhurde/FUNK-README.github.io/assets/138601399/80232a9c-f9b3-4804-8156-aabb73d8ed6c)
+<br>
+<br>
+<br>
 
 
             
